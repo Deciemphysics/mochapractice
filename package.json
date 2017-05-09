@@ -1,0 +1,24 @@
+{
+  "name": "mochapractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha './test/**/*.spec.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deciemphysics/mochapractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deciemphysics/mochapractice/issues"
+  },
+  "homepage": "https://github.com/Deciemphysics/mochapractice#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "mocha": "^3.3.0"
+  }
+}
